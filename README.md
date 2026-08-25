@@ -1,5 +1,7 @@
 # Sales-Performance-Dashboard-Excel-
 
+<img width="990" height="598" alt="Screenshot 2026-04-17 040139" src="https://github.com/user-attachments/assets/464e4d7a-83e7-445c-9d17-240e5f8fe182" />
+
 ## Project Overview
 
 This project presents an interactive Sales Performance Dashboard built in Microsoft Excel. The dashboard provides insights into sales performance, profitability, customer trends, and product performance, enabling better business decision-making.
@@ -44,8 +46,6 @@ This project presents an interactive Sales Performance Dashboard built in Micros
 - Business Analysis
 - Analytical Thinking
 
-# Dashboard Preview
-<img width="990" height="598" alt="Screenshot 2026-04-17 040139" src="https://github.com/user-attachments/assets/464e4d7a-83e7-445c-9d17-240e5f8fe182" />
 
 ## Author
 
